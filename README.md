@@ -16,8 +16,8 @@ A text-based implementation of the classic Hangman game in Java.
 2. Open a command prompt or terminal and navigate to the project directory.
 3. Compile the Java source file by running the following command:
    
-[javac HangmanGame.java]
+`javac HangmanGame.java`
 
 5. Run the compiled program using the following command:
 
-[java HangmanGame]
+`java HangmanGame`
